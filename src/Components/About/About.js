@@ -11,31 +11,31 @@ export default function About() {
 </div>
 
 <div className="blank">
-    <h2>Hey we are an agricultural company we help u to grow the best goodies</h2>
+    <h2>Our Services</h2>
 </div>
 
 <div className="container second">
   <div className="item">
     <div className="img img-first"></div>
     <div className="card">
-      <h3>Rock climbing</h3>
-      <p>The goal is to reach the summit of a formation or the endpoint of a usually pre-defined route without falling</p>
+      <h3>Harvesting</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat fuga eligendi consequatur accusamus modi ea! Corporis reiciendis omnis, explicabo, perspiciatis, illum similique ex corrupti sunt eaque exercitationem velit repellendus impedit?</p>
       {/* <a href="#">Learn more</a> */}
     </div>
   </div>
   <div className="item">
     <div className="img img-second"></div>
     <div className="card">
-      <h3>Caving</h3>
-      <p>Exploring underground through networks of tunnels and passageways, which can be natural or artificial.</p>
+      <h3>Fertility Boost</h3>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias, ab quas, beatae rem praesentium provident unde explicabo laborum illum ea nesciunt nobis vitae deleniti accusamus voluptas omnis ut. Soluta, debitis!</p>
       {/* <a href="#">Learn more</a> */}
     </div>
   </div>
   <div className="item">
     <div className="img img-third"></div>
     <div className="card">
-      <h3>Parachuting</h3>
-      <p>Jumping from an aeroplane and falling through the air before opening your parachute.</p>
+      <h3>Boost production</h3>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, iusto esse? Eos sapiente quod aperiam soluta nihil molestiae tenetur dolore nam placeat! A in labore aspernatur repellat pariatur, voluptates facere!</p>
       {/* <a href="#">Learn more</a> */}
     </div>
   </div>
