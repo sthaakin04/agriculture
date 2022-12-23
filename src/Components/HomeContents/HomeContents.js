@@ -5,7 +5,7 @@ export default function HomeContents() {
   return (
     <div>
         <div className="container">
-  <h1>Mountain Star Zlatibor</h1>
+  <h1>Global agriculture</h1>
   <p>Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
   {/* <a href="#">Learn more</a> */}
 </div>

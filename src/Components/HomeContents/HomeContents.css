@@ -113,4 +113,5 @@ h3 {
 .second {
   flex-direction: row;
   gap: 1.6em;
+  height: 20rem;
 }
