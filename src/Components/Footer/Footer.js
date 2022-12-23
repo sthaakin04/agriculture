@@ -7,19 +7,19 @@ export default function Footer() {
 
     <div id="footer2">
       <footer>
-        <ul class="navCat">
-          <li class="topLevel">About</li>
+        <ul className="navCat">
+          <li className="topLevel">About</li>
           <li>About Us</li>
           <li>Our Story</li>
           <li>FAQ</li>
         </ul>
-        <ul class="navCat">
-          <li class="topLevel">Services</li>
+        <ul className="navCat">
+          <li className="topLevel">Services</li>
           <li>Custom Orders</li>
           <li>Wholesale</li>
         </ul>
-        <ul class="navCat">
-          <li class="topLevel">Contact</li>
+        <ul className="navCat">
+          <li className="topLevel">Contact</li>
           <li>Customer Service</li>
           <li>Careers</li>
           <li>Community</li>
