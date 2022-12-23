@@ -33,6 +33,9 @@ header .nav li{
 header .nav li:first-child{
     margin-left: 0;
 }
+.nav li{
+	font-weight: bold;
+}
 header .nav li:last-child{
     margin-right: 0;
 }
@@ -52,4 +55,7 @@ header .nav li:last-child{
     header .nav li{
         margin: 0 7px;
     }
+}
+header a{
+	color: black;
 }

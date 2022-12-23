@@ -1,5 +1,5 @@
 import React from 'react'
-import HomeContents from '../HomeContents/HomeContents'
+import {Link} from 'react-router-dom';
 import './Home.css'
 export default function Home() {
   return (
@@ -8,9 +8,8 @@ export default function Home() {
         <video src="static/images/fieldvideo.mp4" autoPlay muted loop></video>
         <h1>Agriculture</h1>
         <h2>Grow on your own</h2>
-        <a href="#" class="boxBtn">Contact Us</a>
+        <Link to="/about" className="boxBtn">More about us</Link>
     </section>
-      {/* <HomeContents/> */}
     </div>
   )
 }
