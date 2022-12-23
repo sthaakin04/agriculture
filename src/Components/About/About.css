@@ -7,8 +7,8 @@
 }
 
 body {
-  min-height: 100vh;
-  position: relative;
+  /* min-height: 100vh; */
+  /* position: relative; */
   font-family: 'Red Hat Text', sans-serif;
 }
 
@@ -34,7 +34,7 @@ h1 {
   font-size: 3rem;
 }
 
-p {
+.container p {
   max-width: 52ch;
   line-height: 1.5;
   padding: 1em;
@@ -61,6 +61,7 @@ p {
 }
 .blank h2{
     padding-top: 50px;
+    color: #fff;
 }
 .second {
   background-image:url(https://images.pexels.com/photos/235925/pexels-photo-235925.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
