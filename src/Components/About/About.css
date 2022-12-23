@@ -115,3 +115,11 @@ h3 {
   gap: 1.6em;
   height: 20rem;
 }
+@media (max-width: 800px){
+  .second {
+    flex-direction: column;
+    padding: 1rem 0rem;
+    gap: 5px;
+    height: auto;
+  }
+}
