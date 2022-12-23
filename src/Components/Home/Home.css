@@ -184,10 +184,10 @@ p, .a-CTA, input, header{
 
 
 @media (max-width: 576px) {
-    h3, h1 {
+    .about-us h3, h1 {
         font-size: 40px;
     }
-    h2 {
+    .about-us h2 {
         font-size:90px
     }
     .about-us, .reservation {

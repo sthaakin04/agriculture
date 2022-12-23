@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <div>
         <header>
-        <h2><Link to="/">Yougik</Link></h2>
+        <h2><Link to="/">Kisan</Link></h2>
         <ul className="nav">
             <li><Link to="/">home</Link></li>
             <li><Link to="/about">about</Link></li>
