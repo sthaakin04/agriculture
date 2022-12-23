@@ -3,7 +3,7 @@
 :root{
     --text-color: #fff;
     --color: rgba(0,0,0,.5);
-    --bg-color: rgb(0, 0, 0); 
+    --bg-color: rgb(255, 255, 255); 
 }
 
 body {
