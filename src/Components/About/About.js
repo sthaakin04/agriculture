@@ -14,7 +14,7 @@ export default function About() {
         <h2>Our Services</h2>
     </div>
 
-    <div className="container second" id="services">
+    <div className="container second">
       <div className="item">
         <div className="img img-first"></div>
         <div className="card">
