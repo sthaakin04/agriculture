@@ -24,6 +24,8 @@ header{
 }
 header a{
     text-transform: uppercase;
+    color: black;
+    font-family: 'Herr Von Muellerhoff', cursive;
 }
 header .nav{
     display: flex;
@@ -56,7 +58,4 @@ header .nav li:last-child{
     header .nav li{
         margin: 0 7px;
     }
-}
-header a{
-	color: black;
 }
