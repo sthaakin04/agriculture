@@ -33,7 +33,6 @@ export default function Contact() {
                     <input
                       class="app-form-control"
                       placeholder="NAME"
-                      value="Name"
                     />
                   </div>
                   <div class="app-form-group">

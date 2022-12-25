@@ -56,7 +56,7 @@ h1 {
 .blank,
 .other {
   width: 100%;
-  min-height: 20vh;
+  min-height: 10vh;
   background-color: white;
 }
 .blank h2{
@@ -64,7 +64,7 @@ h1 {
     color: #d89529;
     text-align: center;
     font-family: 'Herr Von Muellerhoff', cursive;
-    font-size: 90px;
+    font-size: 50px;
     font-weight: normal;
     /* margin: 0 0 -55px; */
     /* padding-bottom: 15px; */
@@ -136,8 +136,11 @@ h3 {
 }
 
 @media (max-width: 800px){
+  .blank{
+    height: 8vh;
+  }
   .blank h2 {
-      font-size: 70px;
+      font-size: 30px;
       line-height: 1;
       /* padding-bottom: 10px; */
   }
