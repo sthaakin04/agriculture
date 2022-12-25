@@ -12,7 +12,7 @@ export default function Navbar() {
             <li><HashLink smooth to="/#home">home</HashLink></li>
             <li><HashLink smooth to="/#about">about</HashLink></li>
             <li><HashLink smooth to="/#services">services</HashLink></li>
-            <li><HashLink smooth to="/#home">contact</HashLink></li>
+            <li><HashLink smooth to="/#contact">contact</HashLink></li>
         </ul>  
     </header>
     </div>
