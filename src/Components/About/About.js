@@ -6,7 +6,7 @@ export default function About() {
     <div id="about">
       <div className="container">
       <h1>Global agriculture</h1>
-      <p>Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias amet quia nobis eaque dolore ex voluptatum sed quaerat necessitatibus velit minima autem, sequi labore fugiat. Quo pariatur molestias atque esse?</p>
       {/* <a href="#">Learn more</a> */}
     </div>
 
