@@ -54,9 +54,6 @@ section{
     color: #000;
 }
 @media (max-width: 800px){
-    .box{
-        min-height: 600px;
-    }
     .box h1{
         font-size: 32px;
     }
@@ -91,6 +88,7 @@ img {
     font-size: 90px;
     font-weight: normal;
     margin: 0 0 -55px;
+    padding-bottom: 15px;
 }
 .about-us .text h1, h3 {
     font-family: "Source Code Pro", sans-serif;
@@ -181,7 +179,12 @@ p, .a-CTA, input, header{
 
 }
 
-
+@media (max-width: 800px) {
+    .about-us .text h2{
+        font-size: 70px;
+        padding-bottom: 10px;
+    }
+}
 
 @media (max-width: 576px) {
     .about-us h3, h1 {
