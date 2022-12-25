@@ -10,7 +10,7 @@ export default function About() {
       {/* <a href="#">Learn more</a> */}
     </div>
 
-    <div className="blank">
+    <div className="blank" id="services">
         <h2>Our Services</h2>
     </div>
 

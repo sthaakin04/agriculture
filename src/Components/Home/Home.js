@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 import './Home.css'
 export default function Home() {
   return (
-    <div>
+    <div id="home">
       <section className="box">
         <video src="static/images/fieldvideo.mp4" autoPlay muted loop></video>
         <h1>Agriculture</h1>
