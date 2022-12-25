@@ -45,7 +45,7 @@ export default function Contact() {
                     <input class="app-form-control" placeholder="MESSAGE" />
                   </div>
                   <div class="app-form-group buttons">
-                    <button class="app-form-button">CANCEL</button>
+                    {/* <button class="app-form-button">CANCEL</button> */}
                     <button class="app-form-button">SEND</button>
                   </div>
                 </div>
